@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\API\AspCoreApiMongoDb\AspCoreApiMongoDb\bin\Debug\netcoreapp2.0\AspCoreApiMongoDb.deps.json
+C:\Users\Lenovo\Desktop\API\AspCoreApiMongoDb\AspCoreApiMongoDb\bin\Debug\netcoreapp2.0\AspCoreApiMongoDb.runtimeconfig.json
+C:\Users\Lenovo\Desktop\API\AspCoreApiMongoDb\AspCoreApiMongoDb\bin\Debug\netcoreapp2.0\AspCoreApiMongoDb.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\API\AspCoreApiMongoDb\AspCoreApiMongoDb\bin\Debug\netcoreapp2.0\AspCoreApiMongoDb.dll
+C:\Users\Lenovo\Desktop\API\AspCoreApiMongoDb\AspCoreApiMongoDb\obj\Debug\netcoreapp2.0\AspCoreApiMongoDb.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\API\AspCoreApiMongoDb\AspCoreApiMongoDb\obj\Debug\netcoreapp2.0\AspCoreApiMongoDb.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\API\AspCoreApiMongoDb\AspCoreApiMongoDb\obj\Debug\netcoreapp2.0\AspCoreApiMongoDb.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\API\AspCoreApiMongoDb\AspCoreApiMongoDb\obj\Debug\netcoreapp2.0\AspCoreApiMongoDb.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\API\AspCoreApiMongoDb\AspCoreApiMongoDb\bin\Debug\netcoreapp2.0\AspCoreApiMongoDb.pdb
+C:\Users\Lenovo\Desktop\API\AspCoreApiMongoDb\AspCoreApiMongoDb\obj\Debug\netcoreapp2.0\AspCoreApiMongoDb.dll
+C:\Users\Lenovo\Desktop\API\AspCoreApiMongoDb\AspCoreApiMongoDb\obj\Debug\netcoreapp2.0\AspCoreApiMongoDb.pdb
